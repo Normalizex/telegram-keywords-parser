@@ -1,0 +1,1 @@
+* Telethon will create session files in this folder.
